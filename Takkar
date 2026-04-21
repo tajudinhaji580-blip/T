@@ -1,0 +1,8 @@
+a=input("trump's butttom")
+b=input("kim's buttom")
+if a>b:
+    print("MAGA!")
+elif a<b:
+    print("FAKE NEWS!")
+else:
+    print("WORLD WAR 3!")
